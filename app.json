@@ -1,0 +1,8 @@
+{
+  "name": "opentape",
+  "description": "Host your own mixtapes",
+  "keywords": ["music", "audio", "mixtape", "songs", "sharing"],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/dzuelke/heroku-buildpack-php"
+  }
+}
